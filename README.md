@@ -17,7 +17,7 @@ To get started with The-VCM-Project, follow these steps:
 4. Start coding and developing games without the need for a personal computer.
 
 ## Contributing
-We welcome contributions from the open-source community. If you would like to contribute to The-VCM-Project, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the open-source community. If you would like to contribute to The-VCM-Project, please follow our [contribution guidelines](contributing.md).
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE.
