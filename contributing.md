@@ -25,6 +25,6 @@ We follow the [VCM Project Style Guide](/workspaces/The-VCM-Project/style_guide.
 
 ## License
 
-By contributing to the VCM Project, you agree that your contributions will be licensed under the [GNU Public General License](/workspaces/The-VCM-Project/LICENSE).
+By contributing to the VCM Project, you agree that your contributions will be licensed under the [GNU Public General License](LICENSE).
 
 We appreciate your time and effort in contributing to the VCM Project. Together, we can make it even better!
