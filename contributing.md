@@ -6,7 +6,7 @@ To contribute, please follow these guidelines:
 
 ## Code of Conduct
 
-Please review and adhere to our [Code of Conduct](/workspaces/The-VCM-Project/code_of_conduct.md) at all times.
+Please review and adhere to our [Code of Conduct](code_of_conduct.md) at all times.
 
 ## How to Contribute
 
@@ -25,6 +25,6 @@ We follow the [VCM Project Style Guide](/workspaces/The-VCM-Project/style_guide.
 
 ## License
 
-By contributing to the VCM Project, you agree that your contributions will be licensed under the [MIT License](/workspaces/The-VCM-Project/LICENSE).
+By contributing to the VCM Project, you agree that your contributions will be licensed under the [GNU Public General License](/workspaces/The-VCM-Project/LICENSE).
 
 We appreciate your time and effort in contributing to the VCM Project. Together, we can make it even better!
