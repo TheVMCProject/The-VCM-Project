@@ -1,5 +1,6 @@
 # The-VCM-Project
 This project aims to provide users with access to virtual machines for coding and game development purposes, especially for those who do not have personal computers.
+![The VCM Project](https://github.com/TheVMCProject/The-VCM-Project/assets/161492463/023a9a08-216a-473a-b2b6-d3f347b886cb)
 
 ## Features
 - Access to virtual machines with pre-installed development tools and game engines.
