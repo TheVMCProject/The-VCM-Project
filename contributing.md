@@ -10,10 +10,10 @@ Please review and adhere to our [Code of Conduct](code_of_conduct.md) at all tim
 
 ## How to Contribute
 
-1. Fork the repository and create your branch from `main`.
-2. Make your changes and ensure they follow our coding conventions.
-3. Test your changes thoroughly.
-4. Submit a pull request, clearly describing the changes you've made.
+1. Download The python file`.
+2. Run the file.
+3. Fill it out.
+4. Wait 2-4 Buisness Days.
 
 ## Reporting Issues
 
